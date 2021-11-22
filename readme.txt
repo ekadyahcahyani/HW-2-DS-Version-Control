@@ -1,0 +1,1 @@
+Ini latihan untuk repository pertama
